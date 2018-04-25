@@ -10,7 +10,7 @@ local UCBC = '/lua/editor/UnitCountBuildConditions.lua'
 local SIBC = '/lua/editor/SorianInstantBuildConditions.lua'
 
 BuilderGroup {
-    BuilderGroupName = 'DilliPlatoons',
+    BuilderGroupName = 'DilliT1Platoons',
     BuildersType = 'PlatoonFormBuilder',
     Builder {
         BuilderName = 'Dilli T1 Raiding',
@@ -25,7 +25,7 @@ BuilderGroup {
         BuilderConditions = { },
     },
     Builder {
-        BuilderName = 'Dilli T1 Attack',
+        BuilderName = 'DilliT1Attack',
         PlatoonTemplate = 'DilliT1Attack',
         Priority = 200,
         InstanceCount = 200,

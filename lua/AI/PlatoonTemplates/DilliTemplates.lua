@@ -16,15 +16,15 @@ PlatoonTemplate {
 
 PlatoonTemplate {
     Name = 'DilliT1Raid',
-    Plan = 'HuntAI',
+    Plan = 'StrikeForceAI',
     GlobalSquads = {
-        { categories.MOBILE * categories.LAND - categories.EXPERIMENTAL - categories.ENGINEER - categories.xsl0402 + categories.ual0201, 1, 3, 'attack', 'none' },
+        { categories.MOBILE * categories.LAND - categories.EXPERIMENTAL - categories.ENGINEER - categories.xsl0402, 1, 3, 'attack', 'none' },
     },
 }
 
 PlatoonTemplate {
     Name = 'DilliT1Attack',
-    Plan = 'HuntAI',
+    Plan = 'StrikeForceAI',
     GlobalSquads = {
         { categories.MOBILE * categories.LAND - categories.EXPERIMENTAL - categories.ENGINEER - categories.xsl0402, 5, 20, 'attack', 'none' },
     },

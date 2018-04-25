@@ -14,7 +14,7 @@ BaseBuilderTemplate {
         'DilliEngieBuilders',
 
         --Economy
-        'DilliUpgradeMex'
+        'DilliUpgradeMex',
 
         -- Factory Builders
         'DilliT1GenericFactory',
