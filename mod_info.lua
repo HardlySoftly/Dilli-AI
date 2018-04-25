@@ -1,6 +1,6 @@
 name = "Dilli AI"
-uid = "b46a9646-fbb0-45ac-b1a3-58768b060d2c"
-version = 1
+uid = "487488c8-b7c1-4819-a362-91678d9f0db0"
+version = 2
 copyright = "Softles"
 description = "Superior 1v1 AI.  Life lessons included as standard."
 author = "Softles"
